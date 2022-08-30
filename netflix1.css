@@ -1,0 +1,560 @@
+
+#dropdownMenuButton1{
+    position: absolute;
+    top: 30px;
+    left: 1270px;
+    padding: 5px 17px 9px 30px;
+    background-color: black;
+    border-color: azure;
+    
+}
+
+#icon{
+    position: absolute;
+    top: 37px;
+    left: 1280px;
+    color: white;
+}
+
+
+#signin{
+    background-color: red;
+   position: absolute;
+   top: 30px;
+   left: 1400px;
+}
+
+#logo{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    height: 100px;
+    width: 170px;
+    fill: red;
+}
+
+#F1{
+
+    color: white;
+    position: absolute;
+    top: 270PX;
+    left: 400PX;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+#F2{
+    color: white;
+    position: absolute;
+    top: 345PX;
+    left: 460PX;
+    font-size: 4rem;
+    font-weight: bold;
+
+}
+
+#F3{
+    color: white;
+    position: absolute;
+    top: 440PX;
+    left: 460PX;
+    font-size: 2rem;
+
+}
+
+#F4{
+    color: white;
+    position: absolute;
+    top: 515PX;
+    left: 370PX;
+    font-size: 1.4rem;
+
+}
+
+#id_email_hero_fuji{
+    position: absolute;
+    top: 560px;
+    left: 340px;
+    height: 60px;
+    width: 560px;
+}
+
+#b2{
+    background-color: red;
+    position: absolute;
+    top: 560px;
+    left: 900px;
+    height: 60px;
+    width: 250px;
+    
+}
+
+.border{
+    width: 1820px;
+    height: 10px;
+    border: solid 0px  gray;
+    color: grey;
+    background-color: gray;
+    position: absolute;
+    top: 952px;
+    left: 0px;
+}
+
+.our-story-card-img{
+    color: black;
+    position: absolute;
+    left: 825px;
+    top: 988px;
+}
+
+.our-story-card-video{
+    position: absolute;
+    left: 900px;
+    top: 1080px;
+}
+
+#f5{
+
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 1150PX;
+    left: 100PX;
+    font-size: 4rem;
+}
+
+#f6{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 1250px;
+    left: 100px;
+    font-size: 2rem;
+}
+
+#f7{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 1290px;
+    left: 100px;
+    font-size: 2rem;
+}
+
+#f8{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 1330px;
+    left: 100px;
+    font-size: 2rem;
+}
+
+.border2{
+    width: 1820px;
+    height: 10px;
+    border: solid 0px  gray;
+    color: grey;
+    background-color: gray;
+    position: absolute;
+    top: 1500px;
+    left: 0px;
+
+}
+
+#mobileimg{
+    position: absolute;
+    top: 1600px;
+    left:10px
+}
+
+#f9{
+    color: white;
+    position: absolute;
+    top: 1720px;
+    left: 800px;
+    font-size: 4rem;
+    
+}
+
+#f10{
+    color: white;
+    font-size: 4rem;
+    position: absolute;
+    top: 1790px;
+    left: 800px;
+}
+
+#f11{
+    color:white;
+    font-size: 2rem;
+    font-weight: 400;
+    position: absolute;
+    top: 1888px;
+    left: 800px;
+}
+
+#f12{
+        color: white;
+        font-size: 2rem;
+        font-weight: 400;
+        position: absolute;
+        top: 1920px;
+        left: 800px;
+}
+
+
+.imageborder{
+    background-color: black;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 1em 2em;
+    width: 370px;
+    height: 90px;
+    border: solid 1px gray;
+    position: absolute;
+    top: 1950px;
+    left: 150px;
+
+}
+
+#imgbor{
+    height: 70px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    
+}
+
+#f13{
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    position: absolute;
+    left: 79px;
+    top: 30px;
+}
+
+#f14{
+    color: blue;
+    font-weight: 200;
+    font-size: 1rem;
+    position: absolute;
+    left: 79px;
+    top: 50px;
+}
+
+#down{
+    color: white;
+    position: absolute;
+    top: 35px;
+    left: 280px;
+   
+}
+
+.border3{
+    width: 1820px;
+    height: 10px;
+    border: solid 0px gray;
+    color: gray;
+    background-color: gray;
+    position: absolute;
+    top:2180px;
+}
+
+#second{
+    position: absolute;
+    top: 2260px;
+    left: 800px;
+
+}
+
+#imgsg{
+    position: absolute;
+    top: -30px;
+    left: -125px;
+    width: 755px;
+}
+
+#f15{
+    font-size: 3.5rem;
+    color: white;
+    position: absolute;
+    left: -700px;
+    top: 130px;
+}
+
+#f16{
+    font-size: 1.8rem;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    left: -700px;
+    top: 220px;
+}
+
+#f17{
+    font-size: 1.8rem;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    left: -700px;
+    top: 260px;
+}
+
+.border4{
+        width: 1820px;
+        height: 10px;
+        border: solid 0px gray;
+        color: gray;
+        background-color: gray;
+        position: absolute;
+        top:2850px;
+    
+}
+
+#childimg{
+    position: absolute;
+    top: 2900px;
+    left: 200px;
+}
+
+#f18{
+    font-size: 3.4rem;
+    font-weight: 600;
+    color: white;
+    position: absolute;
+    left: 850px;
+    top: 3000px;
+
+}
+
+#f19{
+    font-size: 3.4rem;
+    font-weight: 600;
+    color: white;
+    position: absolute;
+    left: 850px;
+    top: 3060px;   
+    
+    }
+
+
+#f20{
+        font-size: 1.7rem;
+        font-weight: 400;
+        color: white;
+        position: absolute;
+        left: 850px;
+        top: 3140px;   
+        
+        }
+    
+ 
+#f21{
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    left: 850px;
+    top: 3170px;   
+    
+    }
+
+#f22{
+        font-size: 1.7rem;
+        font-weight: 400;
+        color: white;
+        position: absolute;
+        left: 850px;
+        top: 3200px;   
+        
+        }
+        
+.border5{
+    width: 1820px;
+    height: 10px;
+    border: solid 0px gray;
+    color: gray;
+    background-color: gray;
+    position: absolute;
+    top:3400px;
+
+}       
+
+#f23{
+
+    font-size: 4rem;
+    font-weight: 600;
+    color: white;
+    position: absolute;
+    left: 400px;
+    top: 3480px;
+}
+
+#accordionExample1{
+    color: gray;
+    position: absolute;
+    left: 330px;
+    top: 3600px;
+    width: 950px;
+}
+
+.accordion-button{
+    background-color:  #303030;
+    color: white;
+}
+
+.accordion-body{
+    color: white;
+    background-color: #303030;
+}
+
+#collapseOne{
+    background-color: #303030;
+}
+
+.accordion-item{
+    background-color: #303030;
+}
+
+#a1{
+    color: white;
+}
+
+
+.accordion-buttoncollapsed{
+    background-color: #303030;
+    color: white;
+}
+
+
+
+#a2{
+    color: white;
+}
+
+#a3{
+    color: white;
+}
+
+#a4{
+    color: white;
+}
+
+#a5{
+    color: white;
+}
+
+#a6{
+    color: white;
+}
+
+#f24{
+    font-size: 1.5rem;
+    color: white;
+    position: absolute;
+    left: 70px;
+    width: 1000px;
+}
+
+.nfTextField{
+    position: absolute;
+    left: 40px;
+    height: 60px;
+    width: 560px;
+}
+
+#b3{
+    position: absolute;
+    left: 601px;
+    height: 60px;
+    width: 300px;
+    background-color: red;
+}
+
+.border6{
+    width: 1820px;
+    height: 10px;
+    border: solid 0px gray;
+    color: gray;
+    background-color: gray;
+    position: absolute;
+    left: -350px;
+
+
+}
+
+#f25{
+    font-size: 1.1rem;
+}
+
+#f26{
+    font-size: 1rem;
+}
+
+#f27{
+    font-size: 1rem;
+}
+
+#f28{
+    font-size: 1rem;
+    position: absolute;
+    left: 250px;
+}
+
+#f29{
+    font-size: 1rem;
+}
+
+#f30{
+    font-size: 1rem;
+    position: absolute;
+    left: 500px;
+}
+
+#f31{
+    font-size: 1rem;
+}
+
+#f32{
+    font-size: 1rem;
+    position: absolute;
+    left: 750px;
+}
+
+#f33{
+    font-size: 1rem;
+}
+
+#dropdownMenuButton2{
+    position: absolute;
+    left: 0px;
+    padding: 5px 17px 9px 30px;
+    background-color: black;
+    border-color: azure;
+    
+}
+
+#icon2{
+    position: absolute;
+    left: 5px;
+    color: white;
+}
+
+
+
+#final{
+    font-size: 1rem;
+}
+
+.border7{
+    width: 1820px;
+    height: 10px;
+    border: solid 0px gray;
+    color: gray;
+    background-color: gray;
+    position: absolute;
+    left: -350px;
+
+}
